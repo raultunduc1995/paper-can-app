@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paper Scan</string>
+
+    <string name="organize_title">Organize</string>
+
+    <string name="organize_action">@string/organize_title</string>
+    <string name="done_action">Done</string>
+</resources>
