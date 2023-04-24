@@ -1,2 +1,2 @@
-# paper-can-app
+# paper-scan-app
 PaperScan App
